@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["*"]
+    }
+  },
+  "include": ["**/*"]
+}
+
+//"include": [
+ //   "src/**/*"
+ // ]am sters src ca sa nu dea eroare
